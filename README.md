@@ -2,7 +2,7 @@
 <!-- Header -->
 
 <div align="center">
-<h1>Pinn (Aiqi) Xu</h1>  
+<h1>👋🏻 Hi, I'm Pinn Xu.</h1>  
 
 <!-- 彩色波浪 Title (颜色随机)
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pinn%20Xu&reversal=false&fontColor=ffffff&fontAlign=50&textBg=false&animation=fadeIn&descAlignY=66&fontSize=70)
