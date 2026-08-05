@@ -1,15 +1,28 @@
 <div align="center">
-  <h1>Pinn (Aiqi) Xu</h1>  
-  
-  **Data Analysis • UI/UX Design • Web App Dev**  
-  
-  **[Portfolio Website](https://pinn32.github.io)**  
-  
-  <!-- Data Anlaysis ... &nbsp;|&nbsp; [Website](https://pinn32.github.io) &nbsp;|&nbsp; Boston, MA**  -->
+<h1>Pinn (Aiqi) Xu</h1>  
+
+<!--
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pinn%20Xu&reversal=false&fontColor=ffffff&fontAlign=50&textBg=false&animation=fadeIn&descAlignY=66&fontSize=70)
+-->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&weight=500&size=16&duration=3000&pause=1200&color=02B5D0&center=true&vCenter=true&width=435&lines=Data+Analyst+%E2%80%A2+UI%2FUX+%E2%80%A2+Web+App+Developer;Product%2FProject+Manager+%E2%80%A2+Media+Specialist)](https://git.io/typing-svg)  
+
+<p align="center">
+  <a href="https://pinn32.github.io/en/">
+    <img src="https://img.shields.io/badge/-Portfolio-42a8a8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pinn-aiqi-xu">
+    <img src="https://img.shields.io/badge/-LinkedIn-2586db?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pinnaiqixu@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-ef885f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
 ## Stacks
-
 
 **Data Analysis:**   
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
