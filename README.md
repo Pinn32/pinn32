@@ -1,13 +1,17 @@
+<!-- =============================================================================================== -->
+<!-- Header -->
+
 <div align="center">
 <h1>Pinn (Aiqi) Xu</h1>  
 
-<!--
+<!-- 彩色波浪 Title (颜色随机)
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pinn%20Xu&reversal=false&fontColor=ffffff&fontAlign=50&textBg=false&animation=fadeIn&descAlignY=66&fontSize=70)
 -->
 
-
+<!-- 副标题: 打字动效 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&weight=500&size=16&duration=3000&pause=1200&color=02B5D0&center=true&vCenter=true&width=435&lines=Data+Analyst+%E2%80%A2+UI%2FUX+%E2%80%A2+Web+App+Developer;Product%2FProject+Manager+%E2%80%A2+Media+Specialist)](https://git.io/typing-svg)  
 
+<!-- 联系方式 (个站，领英，邮箱) -->
 <p align="center">
   <a href="https://pinn32.github.io/en/">
     <img src="https://img.shields.io/badge/-Portfolio-42a8a8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -22,32 +26,115 @@
 
 </div>
 
+
+
+<!-- =============================================================================================== -->
 ## Stacks
 
-**Data Analysis:**   
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+#### Data Analysis
 
-**Web App Dev:**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL-2D333B?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/SQL-EDF1F2?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-EDF1F2?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2D333B?style=flat-square&amp;logo=python&amp;logoColor=3776AB">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-EDF1F2?style=flat-square&amp;logo=python&amp;logoColor=3776AB">
+  <img alt="Python" src="https://img.shields.io/badge/Python-EDF1F2?style=flat-square&amp;logo=python&amp;logoColor=3776AB">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/R-2D333B?style=flat-square&amp;logo=r&amp;logoColor=276DC3">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/R-EDF1F2?style=flat-square&amp;logo=r&amp;logoColor=276DC3">
+  <img alt="R" src="https://img.shields.io/badge/R-EDF1F2?style=flat-square&amp;logo=r&amp;logoColor=276DC3">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Excel-2D333B?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=217346">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Excel-EDF1F2?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=217346">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-EDF1F2?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=217346">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Power%20BI-2D333B?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Power%20BI-EDF1F2?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-EDF1F2?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tableau-2D333B?style=flat-square&amp;logo=tableau&amp;logoColor=E97627">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tableau-EDF1F2?style=flat-square&amp;logo=tableau&amp;logoColor=E97627">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-EDF1F2?style=flat-square&amp;logo=tableau&amp;logoColor=E97627">
+</picture>
 
-**Graphic Design & Video:**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-000000?style=flat-square&logo=apple&logoColor=white)
-![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+<br>
+
+<!-- ------------------------------------------------------------------- -->
+#### Web App Dev  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-2D333B?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-EDF1F2?style=flat-square&amp;logo=nextdotjs&amp;logoColor=000000">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-EDF1F2?style=flat-square&amp;logo=nextdotjs&amp;logoColor=000000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2D333B?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-EDF1F2?style=flat-square&amp;logo=react&amp;logoColor=087EA4">
+  <img alt="React" src="https://img.shields.io/badge/React-EDF1F2?style=flat-square&amp;logo=react&amp;logoColor=087EA4">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-2D333B?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-EDF1F2?style=flat-square&amp;logo=javascript&amp;logoColor=B59F00">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDF1F2?style=flat-square&amp;logo=javascript&amp;logoColor=B59F00">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-2D333B?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-EDF1F2?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-EDF1F2?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6">
+</picture>
 
 
+
+<!-- ------------------------------------------------------------------- -->
+#### Graphic Design & Video
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-2D333B?style=flat-square&amp;logo=figma&amp;logoColor=F24E1E">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Figma-EDF1F2?style=flat-square&amp;logo=figma&amp;logoColor=F24E1E">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-EDF1F2?style=flat-square&amp;logo=figma&amp;logoColor=F24E1E">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Canva-2D333B?style=flat-square&amp;logo=canva&amp;logoColor=00C4CC">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Canva-EDF1F2?style=flat-square&amp;logo=canva&amp;logoColor=009FA8">
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-EDF1F2?style=flat-square&amp;logo=canva&amp;logoColor=009FA8">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Final%20Cut%20Pro-2D333B?style=flat-square&amp;logo=apple&amp;logoColor=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Final%20Cut%20Pro-EDF1F2?style=flat-square&amp;logo=apple&amp;logoColor=000000">
+  <img alt="Final Cut Pro" src="https://img.shields.io/badge/Final%20Cut%20Pro-EDF1F2?style=flat-square&amp;logo=apple&amp;logoColor=000000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CapCut-2D333B?style=flat-square&amp;logo=capcut&amp;logoColor=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CapCut-EDF1F2?style=flat-square&amp;logo=capcut&amp;logoColor=000000">
+  <img alt="CapCut" src="https://img.shields.io/badge/CapCut-EDF1F2?style=flat-square&amp;logo=capcut&amp;logoColor=000000">
+</picture>
+
+
+
+
+<!-- =============================================================================================== -->
+<!-- Heatmap Snake -->
 
 <!-- Generated by: https://platane.github.io/snk/ -->
-![Contribution Light](https://raw.githubusercontent.com/Pinn32/img/main/img/pic-go/20260718145151525.svg#gh-light-mode-only)
+![Contribution Light](https://raw.githubusercontent.com/Pinn32/img/main/img/pic-go/20260805130318220.svg#gh-light-mode-only)
 <!-- color_snake=pink&color_dots=#edf1f2,#9bddd9,#42a8a8,#3893a3,#027184 -->
-![Contribution Dark](https://raw.githubusercontent.com/Pinn32/img/main/img/pic-go/20260718145302565.svg#gh-dark-mode-only)
+![Contribution Dark](https://raw.githubusercontent.com/Pinn32/img/main/img/pic-go/20260805142319729.svg#gh-dark-mode-only)
 <!-- color_snake=#94004f&color_dots=#0b0a18,#05404c,#0b717d,#1da8bb,#00f8ff -->
+<!-- Dark Color: color_snake=#db4a89&color_dots=#1b2028,#12536d,#027b91,#00b3bc,#1effe4 -->
+
+
+
+
+
+
+
+
+
+
